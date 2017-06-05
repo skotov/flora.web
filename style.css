@@ -16,6 +16,10 @@ div {
     /*outline: #00FF00 dotted thick;*/
 }
 
+a {
+    color: #D6DBDF;
+}
+
 #name {
     color: white;
     text-align: center;
@@ -31,6 +35,7 @@ div {
     width: 40%;
     float: left;
 }
+
 #a {
     width: 30%;
     float: left;
